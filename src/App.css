@@ -1,0 +1,95 @@
+
+body {
+    padding: 0px;
+    margin: 0px;
+    min-height: 70vw;
+    background-color: rgb(164, 214, 164);
+  }
+  
+  .Nav{
+    background-color:rgb(164, 211, 230);
+    padding: 5px;
+    display: flex;
+    font-size: 35px;
+    justify-content: space-around;
+    text-decoration: none;
+  }
+  .Nav1{
+    text-decoration: none;
+  }
+  .input{
+    font-size: 26px;
+    border-radius: 10px;
+  }
+  
+  .name{
+    margin-left: 5rem;
+    font-size: 25px;
+    
+  }
+  
+  .title{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+  }
+  
+  .header{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  .head>button{
+    font-size: 35px;
+    text-align: center;
+    margin-left: 69vw;
+    margin-top: 20px;
+   
+  }
+  .table{
+    margin-left: 25vw;
+    margin-top: 10vh;
+  border: 3px solid black;
+  font-size: 23px;
+  }
+  
+  .butn{
+    background-color: rgb(164, 164, 236);
+    font-size: 1.3rem;
+    padding: 0 2rem;
+    border: 1px solid black;
+    border-radius: 25px;
+  }
+  
+  td{
+    padding: 15px !important;
+  }
+  
+  .Heading{
+    text-align: right;
+  }
+  
+  
+  .edit{
+    width: 500px;
+    height: 300px;
+    margin-top: 25vh;
+    margin-left: 25vw;
+    border-radius: 20px;
+    background-color: rgb(171, 231, 231);
+  }
+  .btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+  }
+  
+  .button{
+    background-color: tomato;
+    padding: 25px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin: 10px;
+  }
+  
